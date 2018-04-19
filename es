@@ -1,4 +1,4 @@
-{
+﻿{
     "language": "es",
     "version": "1.0",
     "login": {
@@ -21,43 +21,43 @@
         "decrypt": "Descifrado Abierto"
       },
       "text": {
-        "index": "Text",
-        "font": "Font",
+        "index": "Texto",
+        "font": "Fuente",
         "color": "Color",
-        "auto-NL": "Auto New Line",
-        "time": "Time Stamp",
-        "copy": "Copy",
-        "paste": "Paste",
-        "select-all": "Select All",
-        "clean": "Clean"
+        "auto-NL": "Automático NewLine",
+        "time": "Sello de tiempo",
+        "copy": "Copiar",
+        "paste": "Pegar",
+        "select-all": "Seleccionar todo",
+        "clean": "Limpiar"
       },
       "lock": {
-        "index": "Lock"
+        "index": "Bloquear"
       },
       "exit": {
-        "index": "Exit"
+        "index": "Salir de"
       },
       "setting": {
-        "index": "Setting",
-        "language": "change language"
+        "index": "Ajuste",
+        "language": "Cambiar idioma"
       },
       "about": {
-        "index": "About"
+        "index": "Acerca de"
       },
       "setup": {
-        "password-error": "Password Error",
-        "enter-old-password": "Please Enter Old Password",
-        "enter-new-password": "Please Enter New Password",
-        "enter-old-password2": "Please Enter Old Password Again",
-        "enter-new-password2": "Please Enter New Password Again",
-        "password-cant-empty": "New Password Can't be empty!",
-        "check-new-password": "Check New Password",
-        "new-password-check-fail": "New Password not match!",
-        "success": "New Password Change Success!"
+        "password-error": "Error de contraseña",
+        "enter-old-password": "Por favor ingrese la contraseña anterior",
+        "enter-new-password": "Por favor ingrese una nueva contraseña",
+        "enter-old-password2": "Por favor ingrese la contraseña anterior de nuevo",
+        "enter-new-password2": "Por favor ingrese una nueva contraseña nuevamente",
+        "password-cant-empty": "Nueva contraseña no puede estar vacía!",
+        "check-new-password": "Verificar nueva contraseña",
+        "new-password-check-fail": "¡Nueva contraseña no coincide!",
+        "success": "¡Nuevo éxito de cambio de contraseña!"
       }
     },
     "author": "oxygen-studio 劉子豪",
     "software-CopyRight": "Copyright (C) 2017-2018, 劉子豪 All rights reserved",
-    "translater": "劉子豪 google translate",
+    "translater": "劉子豪 Google translate",
     "translate-CopyRight": "MIT License"
   }
